@@ -8,8 +8,6 @@ from PIL import Image, ImageTk
 import face_recognition
 
 import util
-# from test import test
-
 
 class App:
     def __init__(self):
